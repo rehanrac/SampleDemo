@@ -5,4 +5,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 	}
 
+	public void apicall() {
+		System.out.println("Inside api call");
+	}
+
 }
